@@ -79,25 +79,7 @@ Esta parte se agrega ya que los datos no son estructurados. El objetivo final es
 
 ### Preparación de datos
 
-El siguiente [[link]](./notebooks_pasos_previos/01_preparacion_dataset_clasificacion.ipynb) contiene el proceso llevado a cabo para la preparación de los datos.
-
-### Creación de modelos
-
-Los modelos empleados para llevar a cabo la clasificación, se muestran a continuación:
-1. Modelo de regresión logistica [[link]](./notebooks_pasos_previos/02_regresion_logistica.ipynb)
-2. Modelo K-NN [[link]](./notebooks_pasos_previos/03_KNN_hiperparametros.ipynb)
-3. Modelo de arboles de decisión [[link]](./notebooks_pasos_previos/04_arboles_decision_clasificacion.ipynb)
-4. Modelo de arboles de decisión usando Random Forest [[link]](./notebooks_pasos_previos/05_arboles_decision_random_forest_clasificacion.ipynb)
-5. Modelo Ada-Boost [[link]](./notebooks_pasos_previos/06_ada_boost_clasificacion.ipynb)
-
-
-## Evaluación de los modelos
-
-Ver Notebook con la evaluación de los modelos [[link]](./notebooks_pasos_previos/07_evaluacion_entre_modelos_clasificacion.ipynb)
-
-## Presentaciones
-
-Las presentaciones se encuentran en el siguiente [enlace](./Presentacion%20final.pdf)
+To Do...
 
 ## Referencias
 
