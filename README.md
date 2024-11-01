@@ -84,6 +84,4 @@ To Do...
 ## Referencias
 
 * https://www.techscience.com/cmc/v72n1/46931/html
-* Notas de clase
-* https://github.com/gedeck/practical-statistics-for-data-scientists
-* https://github.com/mbeveridge/Bruce_Practical-Statistics
+* https://electrophys.wordpress.com/home/electromyography/basics-of-emg/
