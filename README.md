@@ -85,3 +85,4 @@ To Do...
 
 * https://www.techscience.com/cmc/v72n1/46931/html
 * https://electrophys.wordpress.com/home/electromyography/basics-of-emg/
+* https://github.com/chuawt/eda-starter/blob/main/eda_starter.ipynb
