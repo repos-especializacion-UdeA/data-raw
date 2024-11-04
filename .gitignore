@@ -163,3 +163,4 @@ cython_debug/
 
 # Archivos grandes
 notebooks/datasets/filter_dataset.zip
+*.csv
