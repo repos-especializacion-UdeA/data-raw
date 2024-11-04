@@ -87,3 +87,4 @@ To Do...
 * https://electrophys.wordpress.com/home/electromyography/basics-of-emg/
 * https://github.com/chuawt/eda-starter/blob/main/eda_starter.ipynb
 * https://joserzapata.github.io/courses/python-ciencia-datos/
+* https://docs.profiling.ydata.ai/latest/
