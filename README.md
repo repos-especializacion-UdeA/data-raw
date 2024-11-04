@@ -1,4 +1,4 @@
-# Entrega 1 de aprendizaje de maquina
+# Tratamiendo de datos
 
 ## Autores
 
