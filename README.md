@@ -55,7 +55,7 @@ En las siguientes figuras se muestran las diferentes posturas realizadas:
   
   ![movimientos3](movimientos3.png)
 
-Es importante anotar, que nuestro trabajo solo se limita a los movimientos del realizados en el ejercicio 1 y solo tentra en cuenta las muestras capturadas por los electrodos de superficie. Esto se abordara con mas detalle en los notebooks.
+Es importante anotar, que nuestro trabajo solo se limita a los movimientos del realizados en el ejercicio 1 y solo tentra en cuenta las muestras capturadas por los electrodos de superficie. Esto se abordara con mas detalle en los notebooks del repositorio ([link](./notebooks/README.md)).
 
 ## Resumen del proceso realizado
 
