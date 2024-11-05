@@ -1,4 +1,4 @@
-# Tratamiendo de datos
+# Tratamiendo de datos base de datos Ninapro DB1
 
 ## Autores
 
@@ -55,15 +55,7 @@ En las siguientes figuras se muestran las diferentes posturas realizadas:
   
   ![movimientos3](movimientos3.png)
 
-La siguiente figura adaptada del articulo **Effect of Analysis Window and Feature Selection on Classification of Hand Movements Using EMG Signal** [[link]](https://web.lums.edu.pk/~imdad/pdfs/papers/20_08_effect_of_analysis_window.pdf) resume que se pretende realizar en este trabajo:
-
-![resumen](resumen.png)
-
 Es importante anotar, que nuestro trabajo solo se limita a los movimientos del realizados en el ejercicio 1 y solo tentra en cuenta las muestras capturadas por los electrodos de superficie. Esto se abordara con mas detalle en los notebooks.
-
-## Objetivo a desarrollar
-
-Aplicar diferentes modelos de aprendizaje para un subconjunto de datos de la base de datos ninapro BD1 ([link](https://ninapro.hevs.ch/instructions/DB1.html)) y comparar su rendimiento. 
 
 ## Resumen del proceso realizado
 
@@ -71,15 +63,14 @@ La siguiente figura muestra el procedimiento realizado para llevar a cabo la cla
 
 ![procedimiento](procedimiento_llevado.png)
 
-## Desarrollo de los experimentos
+En nuestro caso, los notebooks presentados en el siguiente repositorio solo llevaran a cabo el trabajo de los bloques 1 y 2 de la figura anterior. Adicionalmente, un ultimo notebook realizara el analisis exploratorio de los datos tal y como se resume en la siguiente tabla:
 
-### Pasos previos
+|Etapa|Notebooks|
+|---|---|
+|**Data preparation**|[[01_merge_databases.ipynb]](./notebooks/01_merge_databases.ipynb) [[02_preprocess_raw_signal.ipynb]](./notebooks/02_preprocess_raw_signal.ipynb)|
+|**Features Extraction**|[[03_features_extraction.ipynb]](./notebooks/03_features_extraction.ipynb)|
+|**Exploratory Data Analysis (EDA)**|[[04_features_EDA.ipynb]](./notebooks/04_features_EDA.ipynb)|
 
-Esta parte se agrega ya que los datos no son estructurados. El objetivo final es llevar estos a una representación que los haga mas adecuados para poderlos meter en el modelo de aprendizaje. El notebook con la preprosamiento de los datos se muestra en el siguiente [[link]](./notebooks_pasos_previos/00_preprocesamiento_dataset_clasificacion.ipynb)
-
-### Preparación de datos
-
-To Do...
 
 ## Referencias
 
